@@ -109,14 +109,14 @@ a:hover {
   bottom: 300px;
 }
 
-.computer-image {
-  width: 20%;
+.laptop-image {
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.googler-image {
-  width: 20%;
+.idea-image {
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
