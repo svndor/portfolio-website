@@ -63,7 +63,9 @@ a:hover {
 .top-container {
   background-color: #FDEBF7;
   position: relative;
-  padding-top: 100px;
+  padding-top: 100px; 
+  
+/* or use this #FEE3EC */
 }
 
 .middle-container {
